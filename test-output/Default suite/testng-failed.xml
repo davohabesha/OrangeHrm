@@ -9,6 +9,7 @@
           <include name="LoginTest"/>
           <include name="AddEmployee"/>
           <include name="adminlik"/>
+          <include name="login"/>
           <include name="logout"/>
         </methods>
       </class> <!-- OrangeHrm.OrangeHrm.AddMemeberTset -->
